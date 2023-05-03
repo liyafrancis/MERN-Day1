@@ -1,4 +1,22 @@
 .file{
-
+   position: absolute;
+   top: 50%;
+   left: 50%;
    color: blueviolet;
+}
+#button{
+   background-color: blue;
+   font-style: oblique;
+   position: absolute;
+   left: 50%;
+   top: 130%;
+}
+#h1{
+   color: blue;
+}
+
+.file2{
+   position: absolute;
+   top: -30%;
+   left: -150%;
 }
